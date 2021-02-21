@@ -16,3 +16,5 @@ examples/output.csv
 .vscode*
 nosetests.xml
 .mypy_cache/
+venv/
+.idea/
